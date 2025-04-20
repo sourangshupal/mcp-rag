@@ -1,11 +1,11 @@
-# MCP-RAG: Modern Context Processing with RAG 🚀
+# MCP-RAG: Model Context Protocol with RAG 🚀
 
 A powerful and efficient RAG (Retrieval-Augmented Generation) implementation using GroundX and OpenAI, built with Modern Context Processing (MCP).
 
 ## 🌟 Features
 
 - **Advanced RAG Implementation**: Utilizes GroundX for high-accuracy document retrieval
-- **Modern Context Protocol**: Seamless integration with MCP for enhanced context handling
+- **Model Context Protocol**: Seamless integration with MCP for enhanced context handling
 - **Type-Safe**: Built with Pydantic for robust type checking and validation
 - **Flexible Configuration**: Easy-to-customize settings through environment variables
 - **Document Ingestion**: Support for PDF document ingestion and processing
